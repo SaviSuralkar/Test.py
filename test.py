@@ -1,2 +1,2 @@
 print("Hello Buddy")
-print("Savitri Suralkar")
+print("Savitri Suralkar is ver lucky")
